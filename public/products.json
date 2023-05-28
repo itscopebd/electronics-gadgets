@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1",
+      "title": "Apple iPhone 13",
+      "price": 999,
+      "image": "https://i.ibb.co/Jjxz1Y6/1.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "2",
+      "title": "Samsung Galaxy S21",
+      "price": 799,
+      "image": "https://i.ibb.co/LCXrj3d/5.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "3",
+      "title": "Sony WH-1000XM4 Wireless Headphones",
+      "price": 349,
+      "image": "https://i.ibb.co/xjfRSQq/3.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "4",
+      "title": "Amazon Echo Dot (4th Gen)",
+      "price": 49,
+      "image": "https://i.ibb.co/T2sZQ1X/4.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "5",
+      "title": "Nintendo Switch",
+      "price": 299,
+      "image": "https://i.ibb.co/NTtVgLn/5.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "6",
+      "title": "Levi's 501 Original Fit Jeans",
+      "price": 59,
+      "image": "https://i.ibb.co/zSTLzrg/6.jpg",
+      "category": "clothing"
+    },
+    {
+      "id": "7",
+      "title": "Nike Air Force 1 '07 Sneakers",
+      "price": 90,
+      "image": "https://i.ibb.co/njhNHZd/7.jpg",
+      "category": "footwear"
+    },
+    {
+      "id": "8",
+      "title": "Cuisinart Stainless Steel Knife Set",
+      "price": 49,
+      "image": "https://i.ibb.co/4FmXXrG/8.jpg",
+      "category": "kitchenware"
+    },
+    {
+      "id": "9",
+      "title": "Fitbit Versa 3",
+      "price": 229,
+      "image": "https://i.ibb.co/x2Ly0Pm/9.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "10",
+      "title": "Samsung 55-Inch QLED 4K Smart TV",
+      "price": 1499,
+      "image": "https://i.ibb.co/gzyF1pZ/10.jpg",
+      "category": "electronics"
+    }
+  ]
